@@ -1,6 +1,2 @@
 # Smokey-the-Slug
-Code
-Code
-Code
-Code
-Code
+Execute python scripts by typing 'python3 scriptname.py' into the terminal.
